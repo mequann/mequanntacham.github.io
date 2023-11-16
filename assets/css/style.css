@@ -222,10 +222,12 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background:linear-gradient(0deg,rgba(13, 226, 91, 0.75),rgba(15, 15, 206, 0.5),rgba(207, 13, 13, .4)) ,url("../img/heroim.jpg") top center;
-  /* background-size: cover; */
+  background:linear-gradient(0deg,rgba(13, 226, 91, 0.75),rgba(15, 15, 206, 0.5),rgba(207, 13, 13, .4)) ,url("../img/banner.png\ \(2\).png") top center;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+
+
   
 }
 /* .profile img{
@@ -390,10 +392,10 @@ section {
   font-style: normal;
 }
 
-.skills .progress-bar-wrap {
+/* .skills .progress-bar-wrap {
   background: #dce8f8;
   height: 10px;
-}
+} */
 
 .skills .progress-bar {
   width: 1px;
